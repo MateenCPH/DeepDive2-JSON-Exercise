@@ -1,0 +1,93 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "birthDate": "1990-10-10",
+    "address": {
+      "street": "Røjlevangen 32",
+      "city": "Taastrup",
+      "zipCode": 2630
+    },
+    "account": {
+      "id": "1",
+      "balance": "1000",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "birthDate": "1985-03-20",
+    "address": {
+      "street": "Amagergade 4",
+      "city": "Amager",
+      "zipCode": 1400
+    },
+    "account": {
+      "id": "2",
+      "balance": "2000",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "David",
+    "lastName": "Johnson",
+    "birthDate": "1978-11-05",
+    "address": {
+      "street": "Vigerslev Alle",
+      "city": "Valby",
+      "zipCode": 2400
+    },
+    "account": {
+      "id": "3",
+      "balance": "1500.75",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "birthDate": "1992-07-18",
+    "address": {
+      "street": "101 Maple St",
+      "city": "Newcity",
+      "zipCode": 11223
+    },
+    "account": {
+      "id": "4",
+      "balance": "3200.00",
+      "isActive": false
+    }
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Clark",
+    "birthDate": "1980-04-30",
+    "address": {
+      "street": "202 Birch St",
+      "city": "Oldtown",
+      "zipCode": 33445
+    },
+    "account": {
+      "id": "5",
+      "balance": "500.25",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Williams",
+    "birthDate": "1995-09-10",
+    "address": {
+      "street": "303 Cedar St",
+      "city": "Uptown",
+      "zipCode": 55678
+    },
+    "account": {
+      "id": "6",
+      "balance": "800.10",
+      "isActive": true
+    }
+  }
+]
+
